@@ -24,7 +24,7 @@
   N/A
 
   # User Story
-  As a streamer I WANT a means to control who shows up on my chat in order to avoid fake accounts, or disrespectful messages
+  As a twitch streamer I WANT a means to control who shows up on my chat in order to avoid fake accounts, or disrespectful messages
 
   # Contribution 
   Ghalileo, Oseghale
