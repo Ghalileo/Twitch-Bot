@@ -6,7 +6,7 @@
   
   # Description 
 
-  A bot used on the popular streaming platform twitch to regulate chat 
+  A bot used on the popular streaming platform twitch to regulate chat audience.
 
   Table of Contents |
   ----------------- |
